@@ -1,0 +1,6 @@
+{
+  "BOT": {
+    "TOKEN": "TOKEN"
+  },
+  "DATABASE": "db.sqlite3"
+}
